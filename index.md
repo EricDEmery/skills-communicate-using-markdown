@@ -4,3 +4,6 @@
 console.log(5)
 Prints 5 to the console log
 ```
+- [x] Apply at Awesome Inc
+- [x] Attend My Firdt Day
+- [ ] Become a Rockstar Software Developer
